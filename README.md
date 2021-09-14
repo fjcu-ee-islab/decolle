@@ -21,12 +21,7 @@ python setup.py install --user
 ```
 
 ## Downloading converted dataset from google drive
-* dvscifar10-------------[download](https://drive.google.com/drive/folders/1TTOenVrwrAJAWDSJ4tvu_HaTKZnN4Vk1?usp=sharing)
-* IITM-------------------[download](https://drive.google.com/drive/folders/1-zuBl-QR7OQXWRsUoNKAtl5wxRhRHoNt?usp=sharing)
-* UCF11-----------------[download](https://drive.google.com/drive/folders/1B988TmCkHa5Z0ot8lvv2Ql895vkRjg7b?usp=sharing)
-* dvsmnist--------------[download](https://drive.google.com/drive/folders/1ULXu4SwmAnSWSseVpxtl1NU8oyHI0p5q?usp=sharing)
-* dvsgesture------------[download](https://drive.google.com/drive/folders/1Da6XLmqvUgluG0jN2RQOMfQoXS4WX6l9?usp=sharing)
-* nmnist----------------[download](https://drive.google.com/drive/folders/1Sav8vAp9CU-tiS3wisZPlAzy5FDavlSw?usp=sharing)
+[download](https://drive.google.com/drive/folders/1NLecOGpySNxd85QFZxENldeOXOHuALfN?usp=sharing)
 
 The converted data should have the following file structure:
 
