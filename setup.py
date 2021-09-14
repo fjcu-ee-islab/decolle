@@ -26,12 +26,5 @@ setup(
     long_description=long_description,
     license='GPL 3.0',
     install_requires=[
-        "torch>=0.4",
-        "scipy>=1.0",
-        "h5py",
-        "tqdm",
-        "tensorboardX",
-        "torchneuromorphic>=0.2",
-        "pyyaml"
     ]
 )
