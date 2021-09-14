@@ -17,6 +17,7 @@ git clone https://github.com/fjcu-ee-islab/decolle.git
 cd decolle
 
 conda env create -f environment.yml
+pip install -r requirements.txt
 python setup.py install --user
 ```
 
