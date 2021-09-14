@@ -21,7 +21,7 @@ python setup.py install --user
 ```
 
 ## Downloading converted dataset from google drive
-[download](https://drive.google.com/drive/folders/1NLecOGpySNxd85QFZxENldeOXOHuALfN?usp=sharing)
+[Download](https://drive.google.com/drive/folders/1NLecOGpySNxd85QFZxENldeOXOHuALfN?usp=sharing)
 
 The converted data should have the following file structure:
 
