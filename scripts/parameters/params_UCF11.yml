@@ -1,0 +1,73 @@
+Nhid:
+- 64
+- 192
+- 384
+- 384
+- 256
+Mhid: []
+alpha:
+- 0.97
+alpharp:
+- 0.65
+batch_size: 18
+beta:
+- 0.92
+betas:
+- 0.
+- 0.95
+dropout:
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+- 0.5
+burnin_steps: 100
+chunk_size_test: 3000
+chunk_size_train: 500
+dataset: torchneuromorphic.UCF11.UCF11_dataloaders
+deltat: 1000
+input_shape:
+- 2
+- 80
+- 80
+kernel_size:
+- 11
+- 5
+- 3
+- 3
+- 3
+stride:
+- 2
+- 2
+- 1
+- 1
+- 1
+lc_ampl: 0.5
+learning_rate: 1.0e-9
+learning_method: 'rtrl'
+loss: smoothL1
+lr_drop_factor: 5
+lr_drop_interval: 30
+num_epochs: 200
+num_conv_layers: 5
+num_mlp_layers: 0
+num_layers: 5
+num_dl_workers: 0
+optimizer: adamax
+out_channels: 11
+online_update: True
+pool_size:
+- 3
+- 3
+- 1
+- 1
+- 1
+random_tau: false
+reg_l:
+- .0
+- .0
+- .0
+- .0
+- .0
+- .0
+test_interval: 1
