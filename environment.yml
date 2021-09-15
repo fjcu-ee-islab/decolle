@@ -1,4 +1,4 @@
-name: demo1
+name: test
 channels:
   - pytorch-lts
   - conda-forge
@@ -59,4 +59,4 @@ dependencies:
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.4.9=ha95c52a_0
-prefix: /home/test/anaconda3/envs/demo1
+prefix: /home/test/anaconda3/envs/test
